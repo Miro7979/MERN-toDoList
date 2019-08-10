@@ -30,5 +30,11 @@
       "nodemon": "^1.19.1"
     },
     "homepage": "https://github.com/Miro7979/MERN-toDoList#readme"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "nodemon": "^1.19.1",
+    "redux": "^4.0.4"
   }
 }
